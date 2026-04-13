@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Minogar28/Minogar28/main/profile-banner.jpg" alt="Profile Banner" style="border-radius: 15px; width: 100%; display: block; margin-bottom: 20px;">
+<img src="https://raw.githubusercontent.com/Minogar28/Minogar28/main/migue%20dev.png" alt="Profile Banner" style="border-radius: 15px; width: 100%; display: block; margin-bottom: 20px;">
 
 # 👋 ¡Hola! Soy Miguelito
 
