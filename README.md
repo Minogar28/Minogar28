@@ -4,8 +4,6 @@
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/Minogar28/Minogar28/main/profile-picture.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; border: 4px solid #00d4ff; margin: 20px auto;">
-  
   > 💻 **Full Stack Developer** | ⚡ **Automatizador nato** | 🌍 **Bilingüe** | 🚀 **Innovador de software**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minogar28)
